@@ -4,7 +4,7 @@ setup(
     name='msm',
     version='0.5.13',
     packages=['msm'],
-    install_requires=['GitPython', 'typing'],
+    install_requires=['GitPython', 'typing', 'future'],
     url='https://github.com/MycroftAI/mycroft-skills-manager',
     license='MIT',
     author='jarbasAI, Matthew Scholefield',
